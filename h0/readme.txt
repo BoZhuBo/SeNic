@@ -1,1 +1,1 @@
-You need to use the file after unzipping
+File needs to be unzipped.
