@@ -16,7 +16,7 @@ When the paper review is completed, it will be placed in the sub-folder of the d
   File and folder structure：
       Root directory: SeNic/
       The file 'SubjectsInfo.xlsx' records the information of all subjects.
-      Each compressed file ‘hxx’ or folder ‘hxx’ starting with ‘h’ in the root directory 'SeNic/' represents the data of a subject. The folder name 'hxx' presents the      anonymous name of this subject, and you can find the corresponding information in the file “SubjectsInfo.xlsx” accordingly.
+      Each compressed file 'hxx' or folder 'hxx' starting with 'h' in the root directory 'SeNic/' represents the data of a subject. The folder name 'hxx' presents the      anonymous name of this subject, and you can find the corresponding information in the file “SubjectsInfo.xlsx” accordingly.
       Under each ‘hxx’ folder, there are several ‘Angle_h0_xx.xlsx’ files and './xx/' second-level subfolders, and each 'Angle_h0_xx.xlsx' file and './xx/' folder correspond to their names. The variable 'xx'in the file/folder name represents the xxth collection of the subject (xxth session). Note that all numbers start from 0.
       
   
