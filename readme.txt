@@ -4,7 +4,7 @@ This is a benchmark dataset of surface electromyogram (sEMG) in non-ideal condit
 
 2，Description
 See the corresponding paper for details:
-Bo Zhu, et al.. A Benchmark Dataset for sEMG-Based Gesture Recognition in Non-ideal Conditions. IEEE Trans. NSRE. VOL. xx, NO. x MONTH YEAR. (under review)
+Bo Zhu, et al. SeNic: An Open Source Dataset for sEMG-Based Gesture Recognition in Non-ideal Conditions. IEEE Trans. NSRE. VOL. xx, NO. x MONTH YEAR. (under review)
 When the paper review is completed, it will be placed in the sub-folder of the data set in time. The data set is an open source data set. The paper(after the paper is published) is expected to be cited if the data set is used for research. The code related to the paper will be open sourced with the paper after the final draft of the paper is confirmed.
 
 
