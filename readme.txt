@@ -1,5 +1,5 @@
 1, Abstract
-This is a benchmark dataset of surface electromyogram (sEMG) in non-ideal conditions (SeNic). The dataset mainly consists of 8-channel sEMG signals, and electrode shifts from an 3D-printed annular ruler. A total of 30 subjects participate in our data acquisition experiments of 7 gestures in non-ideal conditions, where non-ideal factors of 1) electrode shifts, 2) individual difference, 3) muscle fatigue, 4) inter-day difference, and 5) arm postures are elaborately involved.
+This is a benchmark dataset of surface electromyogram (sEMG) in non-ideal conditions (SeNic). The dataset mainly consists of 8-channel sEMG signals, and electrode shifts from an 3D-printed annular ruler. A total of 36 subjects participate in our data acquisition experiments of 7 gestures in non-ideal conditions, where non-ideal factors of 1) electrode shifts, 2) individual difference, 3) muscle fatigue, 4) inter-day difference, and 5) arm postures are elaborately involved.
 
 
 2，Description
