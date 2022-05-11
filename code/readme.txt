@@ -1,1 +1,1 @@
-This is the code related to SeNic, we will open source all the code after they are sorted out.
+This is the code related to SeNic, we will soon sort out the benchmark and open source it.
