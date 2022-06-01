@@ -7,7 +7,7 @@ See the corresponding paper for details:
 
 B. Zhu, D. Zhang, Y. Chu, Y. Gu and X. Zhao, "SeNic: An Open Source Dataset for sEMG-Based Gesture Recognition in Non-Ideal Conditions," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 30, pp. 1252-1260, 2022, doi: 10.1109/TNSRE.2022.3173708.
 
-This paper is expected to be cited if the data set is used for research. The code related to the paper will be open sourced with the paper after the final draft of the paper is confirmed.
+This paper is expected to be cited if the data set is used for research. 
 
 
 3, How To Use
@@ -21,7 +21,7 @@ This paper is expected to be cited if the data set is used for research. The cod
       Each compressed file 'hxx' or folder 'hxx' starting with 'h' in the root directory 'SeNic/' represents the data of a subject. The folder name 'hxx' presents the  anonymous name of this subject, and you can find the corresponding information in the file “SubjectsInfo.xlsx” accordingly.
       Under each ‘hxx’ folder, there are several ‘Angle_h0_xx.xlsx’ files and './xx/' second-level subfolders, and each 'Angle_h0_xx.xlsx' file and './xx/' folder correspond to their names. The variable 'xx'in the file/folder name represents the xxth collection of the subject (xxth session). Note that all numbers start from 0.
       (Error correction: the gender of h35 should be female, it is marked as male in the paper.)
-      
+      (The baseline code is being sorted out, and will be open sourced after the sorting is completed.)
   
   
 
